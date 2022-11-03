@@ -1,5 +1,5 @@
-![preview](/asssets/preview.png)
-![preview](/asssets/preview1.png)
+![preview](/assets/preview.png)
+![preview](/assets/previewmodal.png)
 
 >PT-BR
 
